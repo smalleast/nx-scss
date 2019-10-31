@@ -1,0 +1,9 @@
+{
+  "name": "nx-scss",
+  "version": "1.0.1",
+  "description": "scss",
+  "main": "index.js",
+  "repository": "https://github.com/smalleast/nx-scss.git",
+  "author": "smalleast <382026180@qq.com>",
+  "license": "MIT"
+}
