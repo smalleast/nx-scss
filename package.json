@@ -1,6 +1,6 @@
 {
   "name": "nx-scss",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "scss",
   "main": "index.js",
   "repository": "https://github.com/smalleast/nx-scss.git",
